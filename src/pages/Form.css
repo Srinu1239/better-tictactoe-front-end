@@ -1,0 +1,38 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 40%; /* set the desired height of the container */
+  border: 2px solid black;
+  padding-top: 10px;
+  margin-left: 30%;
+}
+h1{
+  text-align: center;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+input{
+  margin-left: 5px;
+  margin-bottom: 10px;
+  border: 2px solid;
+  border-radius: 3px;
+}
+
+label{
+  font-weight: bold;
+}
+
+button{
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: bisque;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
